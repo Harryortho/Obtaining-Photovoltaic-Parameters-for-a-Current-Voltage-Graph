@@ -14,6 +14,7 @@
 %code, so please remind me so that I can add you to the list 
 %Dr Vasilios Constantoudis, Dr Loukas Peristeras, Dr Evangelos Evangelou
 %Professor L.H.I Lim, Michael Markoulides, Dr Jaw, Dr Vasilios Raptis
+% Eli Billauer, 3.4.05 (Explicitly not copyrighted). for his peakdet funtion
 
 clc
 clear all
