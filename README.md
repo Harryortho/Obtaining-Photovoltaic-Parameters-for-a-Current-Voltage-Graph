@@ -1,0 +1,2 @@
+# Obtaining-Photovoltaic-Parameters-for-a-Current-Voltage-Graph
+My data tries to scan the data from an IV-curve but is unsuccessful, I learnt a lot through it, you need to identify points on a graph through the octave editor with the graphs provided, basically it tries to read a file to get 2 parameters of input for current and voltage. I can't upload them because it might be confidential so maybe try to create your own current voltage graphs and adjust the read in file accordingly
