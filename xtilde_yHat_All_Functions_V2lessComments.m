@@ -15,6 +15,8 @@
 %Dr Vasilios Constantoudis, Dr Loukas Peristeras, Dr Evangelos Evangelou
 %Professor L.H.I Lim, Michael Markoulides, Dr Jaw, Dr Vasilios Raptis
 % Eli Billauer, 3.4.05 (Explicitly not copyrighted). for his peakdet funtion
+% This function is released to the public domain; Any use is allowed.
+%http://www.billauer.co.il/peakdet.html for refrence
 
 clc
 clear all
